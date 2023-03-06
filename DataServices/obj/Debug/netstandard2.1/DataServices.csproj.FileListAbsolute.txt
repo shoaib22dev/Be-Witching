@@ -1,0 +1,7 @@
+C:\Users\91701\source\repos\DataServices\bin\Debug\netstandard2.1\DataServices.deps.json
+C:\Users\91701\source\repos\DataServices\bin\Debug\netstandard2.1\DataServices.dll
+C:\Users\91701\source\repos\DataServices\bin\Debug\netstandard2.1\DataServices.pdb
+C:\Users\91701\source\repos\DataServices\obj\Debug\netstandard2.1\DataServices.AssemblyInfoInputs.cache
+C:\Users\91701\source\repos\DataServices\obj\Debug\netstandard2.1\DataServices.AssemblyInfo.cs
+C:\Users\91701\source\repos\DataServices\obj\Debug\netstandard2.1\DataServices.dll
+C:\Users\91701\source\repos\DataServices\obj\Debug\netstandard2.1\DataServices.pdb
