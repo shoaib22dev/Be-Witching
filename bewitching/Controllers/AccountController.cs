@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 using bewitching.Models;
+using bewitching.Models.Admin;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
@@ -82,7 +83,7 @@ namespace bewitching.Controllers
                 var result = await SignInManager.PasswordSignInAsync(GetLoggedInDetails.UserName, model.Password, model.RememberMe, shouldLockout: false);
                 switch (result)
                 {
-                    case SignInStatus.Success:
+                    case SignInStatus.Success:   
                         return RedirectToAction("Index", "Home");
                     case SignInStatus.LockedOut:
                         return View("Lockout");
