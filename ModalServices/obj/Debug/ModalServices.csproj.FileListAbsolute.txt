@@ -1,0 +1,4 @@
+D:\Personal Info\Be-Witching\ModalServices\bin\Debug\ModalServices.dll
+D:\Personal Info\Be-Witching\ModalServices\bin\Debug\ModalServices.pdb
+D:\Personal Info\Be-Witching\ModalServices\obj\Debug\ModalServices.dll
+D:\Personal Info\Be-Witching\ModalServices\obj\Debug\ModalServices.pdb

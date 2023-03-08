@@ -1,135 +1,137 @@
-C:\Users\91701\source\repos\bewitching\obj\Debug\bewitching.csprojAssemblyReference.cache
-C:\Users\91701\source\repos\bewitching\bin\bewitching.dll.config
-C:\Users\91701\source\repos\bewitching\bin\bewitching.dll
-C:\Users\91701\source\repos\bewitching\bin\bewitching.pdb
-C:\Users\91701\source\repos\bewitching\bin\roslyn\csc.exe
-C:\Users\91701\source\repos\bewitching\bin\roslyn\csc.exe.config
-C:\Users\91701\source\repos\bewitching\bin\roslyn\csc.rsp
-C:\Users\91701\source\repos\bewitching\bin\roslyn\csi.exe
-C:\Users\91701\source\repos\bewitching\bin\roslyn\csi.exe.config
-C:\Users\91701\source\repos\bewitching\bin\roslyn\csi.rsp
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\91701\source\repos\bewitching\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.AppContext.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Console.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.IO.Compression.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Net.Http.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Net.Sockets.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.ValueTuple.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Xml.XPath.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\91701\source\repos\bewitching\bin\roslyn\vbc.exe
-C:\Users\91701\source\repos\bewitching\bin\roslyn\vbc.exe.config
-C:\Users\91701\source\repos\bewitching\bin\roslyn\vbc.rsp
-C:\Users\91701\source\repos\bewitching\bin\roslyn\VBCSCompiler.exe
-C:\Users\91701\source\repos\bewitching\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\91701\source\repos\bewitching\bin\Antlr3.Runtime.dll
-C:\Users\91701\source\repos\bewitching\bin\DataServices.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\91701\source\repos\bewitching\bin\Newtonsoft.Json.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Threading.Tasks.Extensions.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Web.Helpers.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Web.Mvc.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Web.Optimization.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Web.Razor.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Web.WebPages.Deployment.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Web.WebPages.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Web.WebPages.Razor.dll
-C:\Users\91701\source\repos\bewitching\bin\Unity.Abstractions.dll
-C:\Users\91701\source\repos\bewitching\bin\Unity.Container.dll
-C:\Users\91701\source\repos\bewitching\bin\Unity.Mvc5.dll
-C:\Users\91701\source\repos\bewitching\bin\WebActivatorEx.dll
-C:\Users\91701\source\repos\bewitching\bin\WebGrease.dll
-C:\Users\91701\source\repos\bewitching\bin\DataServices.pdb
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Bcl.AsyncInterfaces.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Extensions.DependencyInjection.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Threading.Tasks.Extensions.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Web.Helpers.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Web.Mvc.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Web.Optimization.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Web.Razor.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Web.WebPages.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Web.WebPages.Deployment.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Web.WebPages.Razor.xml
-C:\Users\91701\source\repos\bewitching\bin\Newtonsoft.Json.xml
-C:\Users\91701\source\repos\bewitching\bin\Unity.Abstractions.pdb
-C:\Users\91701\source\repos\bewitching\bin\Unity.Container.pdb
-C:\Users\91701\source\repos\bewitching\bin\Antlr3.Runtime.pdb
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\91701\source\repos\bewitching\obj\Debug\bewitching.csproj.CopyComplete
-C:\Users\91701\source\repos\bewitching\obj\Debug\bewitching.dll
-C:\Users\91701\source\repos\bewitching\obj\Debug\bewitching.pdb
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\91701\source\repos\bewitching\bin\EntityFramework.dll
-C:\Users\91701\source\repos\bewitching\bin\EntityFramework.SqlServer.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Security.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\91701\source\repos\bewitching\bin\Owin.dll
-C:\Users\91701\source\repos\bewitching\bin\EntityFramework.xml
-C:\Users\91701\source\repos\bewitching\bin\EntityFramework.SqlServer.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Security.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Extensions.Primitives.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Buffers.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Memory.dll
-C:\Users\91701\source\repos\bewitching\bin\System.Numerics.Vectors.dll
-C:\Users\91701\source\repos\bewitching\bin\System.ValueTuple.dll
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Extensions.Configuration.Abstractions.xml
-C:\Users\91701\source\repos\bewitching\bin\Microsoft.Extensions.Primitives.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Buffers.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Memory.xml
-C:\Users\91701\source\repos\bewitching\bin\System.Numerics.Vectors.xml
-C:\Users\91701\source\repos\bewitching\bin\System.ValueTuple.xml
-C:\Users\91701\source\repos\bewitching\bin\Castle.Core.dll
-C:\Users\91701\source\repos\bewitching\bin\Castle.Windsor.dll
-C:\Users\91701\source\repos\bewitching\bin\Castle.Core.xml
-C:\Users\91701\source\repos\bewitching\bin\Castle.Windsor.xml
+D:\Personal Info\Be-Witching\bewitching\bin\bewitching.dll.config
+D:\Personal Info\Be-Witching\bewitching\bin\bewitching.dll
+D:\Personal Info\Be-Witching\bewitching\bin\bewitching.pdb
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\csc.exe
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\csc.exe.config
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\csc.rsp
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\csi.exe
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\csi.exe.config
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\csi.rsp
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.AppContext.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Collections.Immutable.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Console.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Globalization.Calendars.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.IO.Compression.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.IO.FileSystem.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Net.Http.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Net.Sockets.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Reflection.Metadata.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.ValueTuple.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Xml.XPath.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\vbc.exe
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\vbc.exe.config
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\vbc.rsp
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\VBCSCompiler.exe
+D:\Personal Info\Be-Witching\bewitching\bin\roslyn\VBCSCompiler.exe.config
+D:\Personal Info\Be-Witching\bewitching\bin\Antlr3.Runtime.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Castle.Core.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Castle.Windsor.dll
+D:\Personal Info\Be-Witching\bewitching\bin\DataServices.dll
+D:\Personal Info\Be-Witching\bewitching\bin\EntityFramework.dll
+D:\Personal Info\Be-Witching\bewitching\bin\EntityFramework.SqlServer.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Extensions.Primitives.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Security.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Web.Infrastructure.dll
+D:\Personal Info\Be-Witching\bewitching\bin\ModalServices.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Newtonsoft.Json.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Owin.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Buffers.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Memory.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Numerics.Vectors.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Threading.Tasks.Extensions.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.ValueTuple.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.Helpers.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.Mvc.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.Optimization.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.Razor.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.WebPages.Deployment.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.WebPages.dll
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.WebPages.Razor.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Unity.Abstractions.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Unity.Container.dll
+D:\Personal Info\Be-Witching\bewitching\bin\Unity.Mvc5.dll
+D:\Personal Info\Be-Witching\bewitching\bin\WebActivatorEx.dll
+D:\Personal Info\Be-Witching\bewitching\bin\WebGrease.dll
+D:\Personal Info\Be-Witching\bewitching\bin\DataServices.pdb
+D:\Personal Info\Be-Witching\bewitching\bin\ModalServices.pdb
+D:\Personal Info\Be-Witching\bewitching\bin\Castle.Core.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Castle.Windsor.xml
+D:\Personal Info\Be-Witching\bewitching\bin\EntityFramework.xml
+D:\Personal Info\Be-Witching\bewitching\bin\EntityFramework.SqlServer.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Extensions.Primitives.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Security.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Buffers.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Memory.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Numerics.Vectors.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Threading.Tasks.Extensions.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.ValueTuple.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.Helpers.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.Mvc.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.Optimization.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.Razor.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.WebPages.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.WebPages.Deployment.xml
+D:\Personal Info\Be-Witching\bewitching\bin\System.Web.WebPages.Razor.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Newtonsoft.Json.xml
+D:\Personal Info\Be-Witching\bewitching\bin\Unity.Abstractions.pdb
+D:\Personal Info\Be-Witching\bewitching\bin\Unity.Container.pdb
+D:\Personal Info\Be-Witching\bewitching\bin\Antlr3.Runtime.pdb
+D:\Personal Info\Be-Witching\bewitching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Personal Info\Be-Witching\bewitching\obj\Debug\bewitching.csprojAssemblyReference.cache
+D:\Personal Info\Be-Witching\bewitching\obj\Debug\bewitching.csproj.CopyComplete
+D:\Personal Info\Be-Witching\bewitching\obj\Debug\bewitching.dll
+D:\Personal Info\Be-Witching\bewitching\obj\Debug\bewitching.pdb

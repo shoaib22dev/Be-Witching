@@ -971,11 +971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\91701\\source\\repos\\DataServices\\DataServices.csproj",
+      "projectUniqueName": "D:\\Personal Info\\Be-Witching\\DataServices\\DataServices.csproj",
       "projectName": "DataServices",
-      "projectPath": "C:\\Users\\91701\\source\\repos\\DataServices\\DataServices.csproj",
+      "projectPath": "D:\\Personal Info\\Be-Witching\\DataServices\\DataServices.csproj",
       "packagesPath": "C:\\Users\\91701\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\91701\\source\\repos\\DataServices\\obj\\",
+      "outputPath": "D:\\Personal Info\\Be-Witching\\DataServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\91701\\AppData\\Roaming\\NuGet\\NuGet.Config",

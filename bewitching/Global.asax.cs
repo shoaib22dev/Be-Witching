@@ -1,4 +1,5 @@
 ﻿
+using bewitching.Areas.Admin;
 using DataServices;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -17,13 +18,15 @@ namespace bewitching
     {
         protected void Application_Start()
         {
-            //var service = IServiceCollection
-            AreaRegistration.RegisterAllAreas();
+            //var service = IServiceCollectionx
+            AdminAreaRegistration.RegisterAllAreas();
+           // AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-            // UnityConfig.RegisterComponents();
-           
+          
+
+
 
 
         }

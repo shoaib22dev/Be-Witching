@@ -6,3 +6,11 @@ C:\Users\91701\source\repos\DataServices\obj\Debug\netstandard2.0\DataServices.A
 C:\Users\91701\source\repos\DataServices\obj\Debug\netstandard2.0\DataServices.dll
 C:\Users\91701\source\repos\DataServices\obj\Debug\netstandard2.0\DataServices.pdb
 C:\Users\91701\source\repos\DataServices\obj\Debug\netstandard2.0\DataServices.csprojAssemblyReference.cache
+D:\Personal Info\Be-Witching\DataServices\bin\Debug\netstandard2.0\DataServices.deps.json
+D:\Personal Info\Be-Witching\DataServices\bin\Debug\netstandard2.0\DataServices.dll
+D:\Personal Info\Be-Witching\DataServices\bin\Debug\netstandard2.0\DataServices.pdb
+D:\Personal Info\Be-Witching\DataServices\obj\Debug\netstandard2.0\DataServices.csprojAssemblyReference.cache
+D:\Personal Info\Be-Witching\DataServices\obj\Debug\netstandard2.0\DataServices.AssemblyInfoInputs.cache
+D:\Personal Info\Be-Witching\DataServices\obj\Debug\netstandard2.0\DataServices.AssemblyInfo.cs
+D:\Personal Info\Be-Witching\DataServices\obj\Debug\netstandard2.0\DataServices.dll
+D:\Personal Info\Be-Witching\DataServices\obj\Debug\netstandard2.0\DataServices.pdb

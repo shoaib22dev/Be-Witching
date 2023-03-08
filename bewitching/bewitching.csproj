@@ -211,6 +211,8 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+    <Compile Include="Areas\Admin\Controllers\AccountController.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -364,6 +366,8 @@
     <Content Include="Content\vendors\mdi\fonts\materialdesignicons-webfont.ttf" />
     <Content Include="Content\vendors\mdi\fonts\materialdesignicons-webfont.woff" />
     <Content Include="Content\vendors\mdi\fonts\materialdesignicons-webfont.woff2" />
+    <Content Include="Areas\Admin\Views\web.config" />
+    <Content Include="Areas\Admin\Views\Account\Login.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -406,6 +410,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Views\Shared\" />
+    <Folder Include="Controllers\NewFolder1\" />
+    <Folder Include="Views\AdminAccount\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -424,6 +432,10 @@
     <ProjectReference Include="..\DataServices\DataServices.csproj">
       <Project>{3e2d5505-f305-48d9-8c13-4730e3ae8f44}</Project>
       <Name>DataServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModalServices\ModalServices.csproj">
+      <Project>{cdefe5f8-e0f1-4263-96f1-300241f3eb5d}</Project>
+      <Name>ModalServices</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
