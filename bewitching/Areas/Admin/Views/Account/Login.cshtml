@@ -23,7 +23,7 @@
                                 <img src="~/Content/images/client-images/shop.png" />
                             </div>
                             <h6 class="font-weight-light">Sign in to Be-Witching.</h6>
-                            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "pt-3", role = "form" }))
+                            @using (Html.BeginForm("Login", "Account", new { area = "Admin" }, FormMethod.Post, new { @class = "pt-3", role = "form" }))
                             {
                                 @Html.AntiForgeryToken()
                                 <span class="text-danger">@TempData["ErrorMessage"]</span>
