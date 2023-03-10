@@ -27,6 +27,7 @@
                             {
                                 @Html.AntiForgeryToken()
                                 <span class="text-danger">@TempData["ErrorMessage"]</span>
+                                <span class="text-success">@TempData["SuccessMessage"]</span>
                                 <div class="form-group">
                                     @Html.TextBoxFor(m => m.Email, new { @class = "form-control form-control-lg", @placeholder = "email@com", @type = "email" })
                                     @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })

@@ -43,16 +43,19 @@
                                 <span class="availability-status online"></span>
                             </div>
                             <div class="nav-profile-text">
-                              
+
                                 <p class="mb-1 text-black">@User.Identity.Name</p>
                             </div>
                         </a>
                         <div class="dropdown-menu navbar-dropdown" aria-labelledby="profileDropdown">
+                            <a class="dropdown-item" href="@Url.Action("ChangePassword","Account",new { area="Admin"})">
+                                <i class="mdi mdi-account-key me-2 text-danger"></i> Change Password
+                            </a>
                             <a class="dropdown-item" href="#">
                                 <i class="mdi mdi-cached me-2 text-success"></i> Activity Log
                             </a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="@Url.Action("LogOffUser","Account")">
+                            <a class="dropdown-item" href="@Url.Action("LogOff","Account",new { area="Admin"})">
                                 <i class="mdi mdi-logout me-2 text-primary"></i> Signout
                             </a>
                         </div>
@@ -67,7 +70,7 @@
                             <i class="mdi mdi-email-outline"></i>
                             <span class="count-symbol bg-warning"></span>
                         </a>
-                        <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" aria-labelledby="messageDropdown">
+                        <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" style="margin-left:-120px;" aria-labelledby="messageDropdown">
                             <h6 class="p-3 mb-0">Messages</h6>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item preview-item">
@@ -108,7 +111,7 @@
                             <i class="mdi mdi-bell-outline"></i>
                             <span class="count-symbol bg-danger"></span>
                         </a>
-                        <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" aria-labelledby="notificationDropdown">
+                        <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" style="margin-left:-195px;" aria-labelledby="notificationDropdown">
                             <h6 class="p-3 mb-0">Notifications</h6>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item preview-item">
@@ -206,7 +209,7 @@
                             <i class="mdi mdi-format-list-bulleted menu-icon"></i>
                         </a>
                     </li>
-                  
+
                     <li class="nav-item">
                         <a class="nav-link" href="pages/tables/basic-table.html">
                             <span class="menu-title">Tables</span>
@@ -248,6 +251,7 @@
 
 
     <script src="Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
     <script src="~/Content/vendors/js/vendor.bundle.base.js"></script>
     <script src="~/Content/vendors/chart.js/Chart.min.js"></script>
     <script src="~/Content/js/jquery.cookie.js"></script>

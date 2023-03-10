@@ -43,7 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdminModel\AdminLoginViewModel.cs" />
-    <Compile Include="AdminModel\Class1.cs" />
+    <Compile Include="AdminModel\ChangePasswordModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

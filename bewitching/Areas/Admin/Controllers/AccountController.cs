@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNet.Identity.Owin;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.Owin;
+using Microsoft.Owin.Security;
 using ModalServices.AdminModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
@@ -121,6 +124,41 @@ namespace bewitching.Areas.Admin.Controllers
                 return userDetails.UserName;
             }
             return "";
+        }
+
+        public ActionResult LogOff()
+        {
+            AuthenticationManager.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
+            TempData["SuccessMessage"] = "You have Successfully log out.";
+            return RedirectToAction("Login", "Account", new { area = "Admin" });
+        }
+
+        [HttpGet]
+        public async Task<ActionResult> ChangePassword()
+        {
+            await Task.Delay(0);
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> ChangePassword(ChangePasswordModel model)
+        {
+            await Task.Delay(0);
+            if (ModelState.IsValid)
+            {
+                UserManager.FindByName
+
+            }
+
+            return View(model);
+        }
+
+        private IAuthenticationManager AuthenticationManager
+        {
+            get
+            {
+                return HttpContext.GetOwinContext().Authentication;
+            }
         }
     }
 }
