@@ -146,7 +146,7 @@ namespace bewitching.Areas.Admin.Controllers
             await Task.Delay(0);
             if (ModelState.IsValid)
             {
-                UserManager.FindByName
+                
 
             }
 
